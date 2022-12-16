@@ -19,6 +19,7 @@ driver.maximize_window()
 driver.implicitly_wait(10)
 
 print("Guyz its my latest code *************")
+print("This is my second latest commit")
 
 driver.get("https://cityclerk.lacity.org/lacityclerkconnect/index.cfm?fa=ccfi.viewrecord&cfnumber=17-0893")
 
